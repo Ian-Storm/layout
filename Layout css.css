@@ -25,5 +25,58 @@ body {
 }
 
 p {
-	color: white
+	color: white;
+}
+
+h2 {
+	color: red;
+}
+
+.Undertale {
+	margin-left: -60px;
+}
+
+.Down {
+	text-align: right;
+	background-color: limegreen;
+}
+
+.p {
+	width: 650px;
+}
+
+.M1 {
+	color: blue;
+}
+
+.M2 {
+	color: red;
+}
+
+.M3 {
+	color: yellow;
+}
+
+.M4 {
+	color: green;
+}
+
+.M5 {
+	color: purple;
+}
+
+.M6 {
+	color: orange;
+}
+
+.M7 {
+	color: brown;
+}
+
+.M8 {
+	color: cyan;
+}
+
+.M9 {
+	color: lime;
 }
