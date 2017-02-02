@@ -2,6 +2,7 @@ h1 {
 	margin: -8px;
 	color: white;
 	background-color: limegreen;
+	align-items: flex-start;
 }
 
 nav li a {
@@ -11,6 +12,7 @@ nav li a {
 	padding-right: 10px;
 	border: 1px solid limegreen;
 	background-color: limegreen;
+	align-items: flex-start;
 }
 
 nav ul {
@@ -18,6 +20,7 @@ nav ul {
 	left: -40px;
 	display: flex;
 	list-style-type: none;
+	align-items: flex-start;
 }
 
 body {
@@ -26,57 +29,73 @@ body {
 
 p {
 	color: white;
+	align-items: flex-start;
 }
 
 h2 {
 	color: red;
+	align-items: flex-start;
 }
 
 .Undertale {
 	margin-left: -60px;
+	margin-bottom: -60px;
+	align-items: flex-start;
 }
 
 .Down {
 	text-align: right;
 	background-color: limegreen;
+	align-items: flex-start;
 }
 
 .p {
 	width: 650px;
-}
-
-.M1 {
-	color: blue;
-}
-
-.M2 {
-	color: red;
-}
-
-.M3 {
-	color: yellow;
-}
-
-.M4 {
-	color: green;
-}
-
-.M5 {
-	color: purple;
-}
-
-.M6 {
-	color: orange;
-}
-
-.M7 {
-	color: brown;
-}
-
-.M8 {
-	color: cyan;
-}
-
-.M9 {
 	color: lime;
+	align-items: flex-start;
+}
+
+.M1, .MA1, .U1, .I1 {
+	color: blue;
+	align-items: flex-start;
+}
+
+.M2, .MA2, .U2, .I2 {
+	color: red;
+	align-items: flex-start;
+}
+
+.M3, .MA3, .U3, .I3 {
+	color: yellow;
+	align-items: flex-start;
+}
+
+.M4, .MA4, .U4, .I4 {
+	color: green;
+	align-items: flex-start;
+}
+
+.M5, .MA5, .U5, .I5 {
+	color: purple;
+	align-items: flex-start;
+}
+
+.M6, .MA6, .U6, .I6 {
+	color: orange;
+	align-items: flex-start;
+}
+
+.M7, .MA7, .U7, .I7 {
+	color: brown;
+	align-items: flex-start;
+}
+
+.M8, .MA8, .U8, .I8 {
+	color: cyan;
+	align-items: flex-start;
+}
+
+.M9, .MA9, .U9, .I9 {
+	color: lime;
+	align-items: flex-start;
 }
